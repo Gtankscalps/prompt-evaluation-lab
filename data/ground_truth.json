@@ -1,0 +1,202 @@
+{
+  "doc-01-formal_invoice": {
+    "invoice_number": "INV-8841",
+    "invoice_date": "2026-08-14",
+    "seller": "Shenzhen Bright LED Co.",
+    "buyer": "Pacific Import Group LLC",
+    "currency": "USD",
+    "total_amount": 18450.0,
+    "hs_chapter": 85,
+    "incoterm": "FOB"
+  },
+  "doc-01-email": {
+    "invoice_number": "INV-8841",
+    "invoice_date": "2026-08-14",
+    "seller": "Shenzhen Bright LED Co.",
+    "buyer": "Pacific Import Group LLC",
+    "currency": "USD",
+    "total_amount": 18450.0,
+    "hs_chapter": 85,
+    "incoterm": "FOB"
+  },
+  "doc-01-manifest": {
+    "invoice_number": "INV-8841",
+    "invoice_date": "2026-08-14",
+    "seller": "Shenzhen Bright LED Co.",
+    "buyer": "Pacific Import Group LLC",
+    "currency": "USD",
+    "total_amount": 18450.0,
+    "hs_chapter": 85,
+    "incoterm": "FOB"
+  },
+  "doc-01-memo": {
+    "invoice_number": "INV-8841",
+    "invoice_date": "2026-08-14",
+    "seller": "Shenzhen Bright LED Co.",
+    "buyer": "Pacific Import Group LLC",
+    "currency": "USD",
+    "total_amount": 18450.0,
+    "hs_chapter": null,
+    "incoterm": null
+  },
+  "doc-02-formal_invoice": {
+    "invoice_number": "INV-2290",
+    "invoice_date": "2026-09-02",
+    "seller": "Hanoi Textile Export JSC",
+    "buyer": "East Coast Apparel Inc",
+    "currency": "USD",
+    "total_amount": 6720.5,
+    "hs_chapter": 61,
+    "incoterm": "CIF"
+  },
+  "doc-02-email": {
+    "invoice_number": "INV-2290",
+    "invoice_date": "2026-09-02",
+    "seller": "Hanoi Textile Export JSC",
+    "buyer": "East Coast Apparel Inc",
+    "currency": "USD",
+    "total_amount": 6720.5,
+    "hs_chapter": 61,
+    "incoterm": "CIF"
+  },
+  "doc-02-manifest": {
+    "invoice_number": "INV-2290",
+    "invoice_date": "2026-09-02",
+    "seller": "Hanoi Textile Export JSC",
+    "buyer": "East Coast Apparel Inc",
+    "currency": "USD",
+    "total_amount": 6720.5,
+    "hs_chapter": 61,
+    "incoterm": "CIF"
+  },
+  "doc-02-memo": {
+    "invoice_number": "INV-2290",
+    "invoice_date": "2026-09-02",
+    "seller": "Hanoi Textile Export JSC",
+    "buyer": "East Coast Apparel Inc",
+    "currency": "USD",
+    "total_amount": 6720.5,
+    "hs_chapter": null,
+    "incoterm": null
+  },
+  "doc-03-formal_invoice": {
+    "invoice_number": "INV-77310",
+    "invoice_date": "2026-07-21",
+    "seller": "Guadalajara Auto Parts SA",
+    "buyer": "Midwest Motors Supply",
+    "currency": "USD",
+    "total_amount": 42980.75,
+    "hs_chapter": 87,
+    "incoterm": "DDP"
+  },
+  "doc-03-email": {
+    "invoice_number": "INV-77310",
+    "invoice_date": "2026-07-21",
+    "seller": "Guadalajara Auto Parts SA",
+    "buyer": "Midwest Motors Supply",
+    "currency": "USD",
+    "total_amount": 42980.75,
+    "hs_chapter": 87,
+    "incoterm": "DDP"
+  },
+  "doc-03-manifest": {
+    "invoice_number": "INV-77310",
+    "invoice_date": "2026-07-21",
+    "seller": "Guadalajara Auto Parts SA",
+    "buyer": "Midwest Motors Supply",
+    "currency": "USD",
+    "total_amount": 42980.75,
+    "hs_chapter": 87,
+    "incoterm": "DDP"
+  },
+  "doc-03-memo": {
+    "invoice_number": "INV-77310",
+    "invoice_date": "2026-07-21",
+    "seller": "Guadalajara Auto Parts SA",
+    "buyer": "Midwest Motors Supply",
+    "currency": "USD",
+    "total_amount": 42980.75,
+    "hs_chapter": null,
+    "incoterm": null
+  },
+  "doc-04-formal_invoice": {
+    "invoice_number": "INV-5519",
+    "invoice_date": "2026-08-30",
+    "seller": "Gdansk Steel Works Sp. z o.o.",
+    "buyer": "Atlantic Building Materials",
+    "currency": "USD",
+    "total_amount": 96300.0,
+    "hs_chapter": 72,
+    "incoterm": "FOB"
+  },
+  "doc-04-email": {
+    "invoice_number": "INV-5519",
+    "invoice_date": "2026-08-30",
+    "seller": "Gdansk Steel Works Sp. z o.o.",
+    "buyer": "Atlantic Building Materials",
+    "currency": "USD",
+    "total_amount": 96300.0,
+    "hs_chapter": 72,
+    "incoterm": "FOB"
+  },
+  "doc-04-manifest": {
+    "invoice_number": "INV-5519",
+    "invoice_date": "2026-08-30",
+    "seller": "Gdansk Steel Works Sp. z o.o.",
+    "buyer": "Atlantic Building Materials",
+    "currency": "USD",
+    "total_amount": 96300.0,
+    "hs_chapter": 72,
+    "incoterm": "FOB"
+  },
+  "doc-04-memo": {
+    "invoice_number": "INV-5519",
+    "invoice_date": "2026-08-30",
+    "seller": "Gdansk Steel Works Sp. z o.o.",
+    "buyer": "Atlantic Building Materials",
+    "currency": "USD",
+    "total_amount": 96300.0,
+    "hs_chapter": null,
+    "incoterm": null
+  },
+  "doc-05-formal_invoice": {
+    "invoice_number": "INV-0934",
+    "invoice_date": "2026-09-11",
+    "seller": "Chennai Spice Traders Pvt Ltd",
+    "buyer": "Golden Gate Foods Inc",
+    "currency": "USD",
+    "total_amount": 3125.25,
+    "hs_chapter": 9,
+    "incoterm": "CFR"
+  },
+  "doc-05-email": {
+    "invoice_number": "INV-0934",
+    "invoice_date": "2026-09-11",
+    "seller": "Chennai Spice Traders Pvt Ltd",
+    "buyer": "Golden Gate Foods Inc",
+    "currency": "USD",
+    "total_amount": 3125.25,
+    "hs_chapter": 9,
+    "incoterm": "CFR"
+  },
+  "doc-05-manifest": {
+    "invoice_number": "INV-0934",
+    "invoice_date": "2026-09-11",
+    "seller": "Chennai Spice Traders Pvt Ltd",
+    "buyer": "Golden Gate Foods Inc",
+    "currency": "USD",
+    "total_amount": 3125.25,
+    "hs_chapter": 9,
+    "incoterm": "CFR"
+  },
+  "doc-05-memo": {
+    "invoice_number": "INV-0934",
+    "invoice_date": "2026-09-11",
+    "seller": "Chennai Spice Traders Pvt Ltd",
+    "buyer": "Golden Gate Foods Inc",
+    "currency": "USD",
+    "total_amount": 3125.25,
+    "hs_chapter": null,
+    "incoterm": null
+  }
+}

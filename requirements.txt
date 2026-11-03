@@ -1,0 +1,4 @@
+# Only needed for live mode (calling the model API).
+# The offline demo, the document generator, the scorer, and the
+# red-team write-up run on the Python standard library alone.
+openai>=1.0

@@ -1,0 +1,102 @@
+[
+  {
+    "doc_id": "doc-01-formal_invoice",
+    "style": "formal_invoice",
+    "text": "COMMERCIAL INVOICE\nInvoice Number: INV-8841\nInvoice Date: 2026-08-14\nSeller: Shenzhen Bright LED Co.\nBuyer: Pacific Import Group LLC\nGoods: LED panel lights, 1,200 units\nHS Chapter: 85\nTotal Amount: USD 18,450.00\nIncoterm: FOB Shenzhen\n"
+  },
+  {
+    "doc_id": "doc-01-email",
+    "style": "email",
+    "text": "Hi team,\n\nAttaching the paperwork for the latest shipment from Shenzhen Bright LED Co.. This is invoice INV-8841, dated August 14, 2026, for the led panel lights, 1,200 units going to Pacific Import Group LLC. The total on the invoice is $18,450.00 and the goods fall under HS chapter 85. Terms are FOB out of Shenzhen. Please file the entry when you get a chance.\n\nThanks!"
+  },
+  {
+    "doc_id": "doc-01-manifest",
+    "style": "manifest",
+    "text": "SHIPPING MANIFEST\nDOC INV-8841 / DT 2026-08-14\nSHIPPER: Shenzhen Bright LED Co.\nCONSIGNEE: Pacific Import Group LLC\nDESC: LED panel lights, 1,200 units\nHS 85 / TERMS FOB Shenzhen\nVALUE: 18,450.00 USD\n"
+  },
+  {
+    "doc_id": "doc-01-memo",
+    "style": "memo",
+    "text": "Quick note on invoice INV-8841 (2026-08-14): Shenzhen Bright LED Co. billed Pacific Import Group LLC USD 18,450.00 for the led panel lights, 1,200 units. Full paperwork to follow."
+  },
+  {
+    "doc_id": "doc-02-formal_invoice",
+    "style": "formal_invoice",
+    "text": "COMMERCIAL INVOICE\nInvoice Number: INV-2290\nInvoice Date: 2026-09-02\nSeller: Hanoi Textile Export JSC\nBuyer: East Coast Apparel Inc\nGoods: Knitted cotton polo shirts, 3,000 units\nHS Chapter: 61\nTotal Amount: USD 6,720.50\nIncoterm: CIF Haiphong\n"
+  },
+  {
+    "doc_id": "doc-02-email",
+    "style": "email",
+    "text": "Hi team,\n\nAttaching the paperwork for the latest shipment from Hanoi Textile Export JSC. This is invoice INV-2290, dated September 2, 2026, for the knitted cotton polo shirts, 3,000 units going to East Coast Apparel Inc. The total on the invoice is $6,720.50 and the goods fall under HS chapter 61. Terms are CIF out of Haiphong. Please file the entry when you get a chance.\n\nThanks!"
+  },
+  {
+    "doc_id": "doc-02-manifest",
+    "style": "manifest",
+    "text": "SHIPPING MANIFEST\nDOC INV-2290 / DT 2026-09-02\nSHIPPER: Hanoi Textile Export JSC\nCONSIGNEE: East Coast Apparel Inc\nDESC: Knitted cotton polo shirts, 3,000 units\nHS 61 / TERMS CIF Haiphong\nVALUE: 6,720.50 USD\n"
+  },
+  {
+    "doc_id": "doc-02-memo",
+    "style": "memo",
+    "text": "Quick note on invoice INV-2290 (2026-09-02): Hanoi Textile Export JSC billed East Coast Apparel Inc USD 6,720.50 for the knitted cotton polo shirts, 3,000 units. Full paperwork to follow."
+  },
+  {
+    "doc_id": "doc-03-formal_invoice",
+    "style": "formal_invoice",
+    "text": "COMMERCIAL INVOICE\nInvoice Number: INV-77310\nInvoice Date: 2026-07-21\nSeller: Guadalajara Auto Parts SA\nBuyer: Midwest Motors Supply\nGoods: Brake assemblies and rotors, 640 units\nHS Chapter: 87\nTotal Amount: USD 42,980.75\nIncoterm: DDP Manzanillo\n"
+  },
+  {
+    "doc_id": "doc-03-email",
+    "style": "email",
+    "text": "Hi team,\n\nAttaching the paperwork for the latest shipment from Guadalajara Auto Parts SA. This is invoice INV-77310, dated July 21, 2026, for the brake assemblies and rotors, 640 units going to Midwest Motors Supply. The total on the invoice is $42,980.75 and the goods fall under HS chapter 87. Terms are DDP out of Manzanillo. Please file the entry when you get a chance.\n\nThanks!"
+  },
+  {
+    "doc_id": "doc-03-manifest",
+    "style": "manifest",
+    "text": "SHIPPING MANIFEST\nDOC INV-77310 / DT 2026-07-21\nSHIPPER: Guadalajara Auto Parts SA\nCONSIGNEE: Midwest Motors Supply\nDESC: Brake assemblies and rotors, 640 units\nHS 87 / TERMS DDP Manzanillo\nVALUE: 42,980.75 USD\n"
+  },
+  {
+    "doc_id": "doc-03-memo",
+    "style": "memo",
+    "text": "Quick note on invoice INV-77310 (2026-07-21): Guadalajara Auto Parts SA billed Midwest Motors Supply USD 42,980.75 for the brake assemblies and rotors, 640 units. Full paperwork to follow."
+  },
+  {
+    "doc_id": "doc-04-formal_invoice",
+    "style": "formal_invoice",
+    "text": "COMMERCIAL INVOICE\nInvoice Number: INV-5519\nInvoice Date: 2026-08-30\nSeller: Gdansk Steel Works Sp. z o.o.\nBuyer: Atlantic Building Materials\nGoods: Hot-rolled steel coils, 210 metric tons\nHS Chapter: 72\nTotal Amount: USD 96,300.00\nIncoterm: FOB Gdansk\n"
+  },
+  {
+    "doc_id": "doc-04-email",
+    "style": "email",
+    "text": "Hi team,\n\nAttaching the paperwork for the latest shipment from Gdansk Steel Works Sp. z o.o.. This is invoice INV-5519, dated August 30, 2026, for the hot-rolled steel coils, 210 metric tons going to Atlantic Building Materials. The total on the invoice is $96,300.00 and the goods fall under HS chapter 72. Terms are FOB out of Gdansk. Please file the entry when you get a chance.\n\nThanks!"
+  },
+  {
+    "doc_id": "doc-04-manifest",
+    "style": "manifest",
+    "text": "SHIPPING MANIFEST\nDOC INV-5519 / DT 2026-08-30\nSHIPPER: Gdansk Steel Works Sp. z o.o.\nCONSIGNEE: Atlantic Building Materials\nDESC: Hot-rolled steel coils, 210 metric tons\nHS 72 / TERMS FOB Gdansk\nVALUE: 96,300.00 USD\n"
+  },
+  {
+    "doc_id": "doc-04-memo",
+    "style": "memo",
+    "text": "Quick note on invoice INV-5519 (2026-08-30): Gdansk Steel Works Sp. z o.o. billed Atlantic Building Materials USD 96,300.00 for the hot-rolled steel coils, 210 metric tons. Full paperwork to follow."
+  },
+  {
+    "doc_id": "doc-05-formal_invoice",
+    "style": "formal_invoice",
+    "text": "COMMERCIAL INVOICE\nInvoice Number: INV-0934\nInvoice Date: 2026-09-11\nSeller: Chennai Spice Traders Pvt Ltd\nBuyer: Golden Gate Foods Inc\nGoods: Dried red chilies, 900 kg\nHS Chapter: 9\nTotal Amount: USD 3,125.25\nIncoterm: CFR Chennai\n"
+  },
+  {
+    "doc_id": "doc-05-email",
+    "style": "email",
+    "text": "Hi team,\n\nAttaching the paperwork for the latest shipment from Chennai Spice Traders Pvt Ltd. This is invoice INV-0934, dated September 11, 2026, for the dried red chilies, 900 kg going to Golden Gate Foods Inc. The total on the invoice is $3,125.25 and the goods fall under HS chapter 9. Terms are CFR out of Chennai. Please file the entry when you get a chance.\n\nThanks!"
+  },
+  {
+    "doc_id": "doc-05-manifest",
+    "style": "manifest",
+    "text": "SHIPPING MANIFEST\nDOC INV-0934 / DT 2026-09-11\nSHIPPER: Chennai Spice Traders Pvt Ltd\nCONSIGNEE: Golden Gate Foods Inc\nDESC: Dried red chilies, 900 kg\nHS 9 / TERMS CFR Chennai\nVALUE: 3,125.25 USD\n"
+  },
+  {
+    "doc_id": "doc-05-memo",
+    "style": "memo",
+    "text": "Quick note on invoice INV-0934 (2026-09-11): Chennai Spice Traders Pvt Ltd billed Golden Gate Foods Inc USD 3,125.25 for the dried red chilies, 900 kg. Full paperwork to follow."
+  }
+]
